@@ -7,6 +7,10 @@
 
 Unofficial maven plugin using [Zally](https://github.com/zalando/zally) for OpenAPI 3.x specification validation.
 
+## Arcived
+Arcived as it is the same as parent.
+
+
 ## Benefits
 
 * Simple to use and tweak rules to fit your requirements
